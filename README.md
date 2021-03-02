@@ -4,7 +4,7 @@
 *HAD TO HAVE THE .APP INSIDE A .ZIP IN ORDER TO UPLOAD TO GITHUB*
 
 
-**Explanation:** I created this .app which runs the techniclauncher.jar built in. I did this so that the “unidentified developer” would no longer be a thing that appears so its basically removing an extra step. Image of popup I’m referring to: https://imgur.com/a/OewWhu8
+**Explanation:** I created this .app which runs the techniclauncher.jar which is built in. I did this so that the “unidentified developer” would no longer be a thing that appears so its basically removing an extra step. Image of popup I’m referring to: https://imgur.com/a/OewWhu8
 
 
 **HOW TO SEE FILES / FOLDER HIERARCHY:** 
