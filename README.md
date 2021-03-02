@@ -37,6 +37,7 @@ In the future if the .jar was to change it would be easy to update the .app sinc
 
 
 I have uploaded a .DMG which has technic launcher inside and a Alias (shortcut) folder so players simply drag the techniclauncher.app to the Applications alias and its installed like every other app.
+
 Here is a video demonstrating how it works:
 
 
