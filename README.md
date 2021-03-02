@@ -33,4 +33,11 @@
 In the future if the .jar was to change it would be easy to update the .app since the process would be to simply erase the .jar that's located in contents/java and replace it with the new .jar, then simply save changes and it would be working with the new .jar without having issues.
 
 
+# **UPDATE 1.2**
+
+
+I have uploaded a .DMG which has technic launcher inside and a Alias (shortcut) folder so players simply drag the techniclauncher.app to the Applications alias and its installed like every other app.
+Here is a video demonstrating how it works:
+
+
 MADE BY CZ :)
