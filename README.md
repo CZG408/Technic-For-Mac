@@ -29,4 +29,8 @@
 3. 3: Players will be add it to their applications list (previously can't) by simply dragging and dropping it to their "Applications" folder Picture of it being in launchpad like every regular app: https://imgur.com/a/ZfVYFRU
 
 
+**Future Proof:**
+In the future if the .jar was to change it would be easy to update the .app since the process would be to simply erase the .jar that's located in contents/java and replace it with the new .jar, then simply save changes and it would be working with the new .jar without having issues.
+
+
 MADE BY CZ :)
